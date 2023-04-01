@@ -12,4 +12,4 @@ Kho lưu trữ zip được giải nén bằng binwalk :
 $ binwalk -e flag.png
 Điều này mang lại một flag.png khác trong hideme/_flag.png.extracted/secret/flag.png mà khi được xem bằng trình chỉnh sửa hình ảnh 
 và hiển thị flag:
-                                        dạng: picoCTF{........XXXXXX........}
+                                       picoCTF{........XXXXXX........}
